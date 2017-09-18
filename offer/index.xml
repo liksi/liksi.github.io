@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Offers on Liksi</title>
+    <link>http://www.liksi.fr/offer/</link>
+    <description>Recent content in Offers on Liksi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>Copyright (c) 2017, Liksi; tous droits réservés.</copyright>
+    
+	<atom:link href="http://www.liksi.fr/offer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ce que nous faisons</title>
+      <link>http://www.liksi.fr/offer/quoi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.liksi.fr/offer/quoi/</guid>
+      <description>&lt;p&gt;Nous mettons la technologie et notre savoir-faire au service de nos clients, afin qu’ils puissent évoluer et rester compétitifs, développer de nouveaux produits, services et business models.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Comment nous le faisons</title>
+      <link>http://www.liksi.fr/offer/comment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.liksi.fr/offer/comment/</guid>
+      <description>&lt;p&gt;Notre expérience nous a orienté vers une autre façon d’exercer notre métier, en conscience, avec passion et maturité.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi nous le faisons</title>
+      <link>http://www.liksi.fr/offer/pourquoi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.liksi.fr/offer/pourquoi/</guid>
+      <description>&lt;p&gt;Quoi de plus traditionnelle et physique qu’une chambre d’hôtel, aujourd’hui virtuelle via une plateforme de réservation en ligne ?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Avec qui nous le faisons</title>
+      <link>http://www.liksi.fr/offer/qui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.liksi.fr/offer/qui/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
